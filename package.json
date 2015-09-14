@@ -1,0 +1,23 @@
+{
+  "name": "everlytic-dev-blog",
+  "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
+  "version": "3.3.5",
+  "keywords": [
+    "blog"
+  ],
+  "homepage": "http://everlytic.github.io/",
+  "author": "Charl Kruger",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/everlytic/everlytic.github.io"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "bootstrap-sass": "3.3.5",
+    "grunt-contrib-copy": "0.8.1"
+  },
+  "engines": {
+    "node": ">=0.10.1"
+  }
+}
