@@ -6,6 +6,5 @@ _site
 Gemfile
 Gemfile.lock
 node_modules
-_sass
 npm-debug.log
 /.idea
