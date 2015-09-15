@@ -4,7 +4,7 @@ title: Frontend and UX Developer Mobbing experiences
 author: Charl Kruger
 ---
 
-![My helpful screenshot]({{ site.baseurl }}/images/it-works.jpg)
+<img src="{{ site.baseurl }}/images/it-works.jpg" alt="Some alt text" class="image-align-right img-responsive" />
 
 Being a developer of any kind can be a lonely place from my experience. For most of the day it's just my terminal
 , head phones on, zoned-in and hacking away at the keyboard. Then I'm unsure of something or things break and turn to good old Google.

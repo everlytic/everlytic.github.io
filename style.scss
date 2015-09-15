@@ -25,6 +25,12 @@ body {
   background-color: white;
 }
 
+@media (min-width: 1200px) {
+  .container {
+    width: 980px;
+  }
+}
+
 /*
 * Fix the logo height
 */
@@ -38,6 +44,7 @@ body {
   }
 
 }
+
 
 /*
 * Index post loop styling
@@ -58,4 +65,12 @@ body {
   padding-bottom: 40px;
   margin-bottom: 30px;
   border-bottom: 5px solid #27B898;
+}
+
+/*
+* Image styling
+*/
+.image-align-right {
+  float: right;
+  padding: 0 0 15px 15px;
 }
